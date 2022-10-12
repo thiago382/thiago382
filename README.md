@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" dir="auto">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago382&show_icons=true&theme=radical)
 
-  <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago382&layout=compact&langs_count=7&theme=dark"/>
- 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago382)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
