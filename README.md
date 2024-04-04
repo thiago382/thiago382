@@ -1,4 +1,4 @@
-## Olá eu sou Thiago, estudante de programação! ✌️
+## Olá eu sou Thiago. ✌️
 
 <!--
 **thiago382/thiago382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
